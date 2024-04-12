@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="land_options">
+        <item>Contact admin for for details</item>
+        <item>Picture 1</item>
+        <item>Picture 2</item>
+        <item>Picture 3</item>
+        <item>Picture 4</item>
+    </array>
+</resources>
